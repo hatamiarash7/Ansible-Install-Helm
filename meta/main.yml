@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: install_helm
+  author: Arash Hatami
+  namespace: hatamiarash7
+  description: Install Helm
+  issue_tracker_url: https://github.com/hatamiarash7/Ansible-Install-Helm/issues
+  license: license (GPL-3.0-only)
+  min_ansible_version: "2.9"
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+        - bionic
+  galaxy_tags:
+    - helm
+    - k8s
+    - kubernetes
+dependencies: []
