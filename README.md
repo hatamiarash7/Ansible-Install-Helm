@@ -1,6 +1,6 @@
 # Install Helm ( Ansible )
 
-[![Build Status](https://app.travis-ci.com/hatamiarash7/Ansible-Install-Helm.svg?branch=master)](https://app.travis-ci.com/hatamiarash7/Ansible-Install-Helm)
+[![Build Status](https://app.travis-ci.com/hatamiarash7/Ansible-Install-Helm.svg?branch=main)](https://app.travis-ci.com/hatamiarash7/Ansible-Install-Helm)
 
 You can use this role to install [Helm](https://helm.sh/).
 
