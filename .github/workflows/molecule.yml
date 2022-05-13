@@ -10,6 +10,7 @@ on:
 
 jobs:
   lint:
+    name: Lint ✅
     runs-on: ubuntu-20.04
     steps:
       - name: checkout
@@ -23,6 +24,7 @@ jobs:
           command: lint
 
   test:
+    name: Test 📊
     runs-on: ubuntu-20.04
     needs:
       - lint
