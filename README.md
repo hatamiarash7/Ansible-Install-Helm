@@ -1,6 +1,6 @@
 # Install Helm ( Ansible )
 
-[![Build Status](https://app.travis-ci.com/hatamiarash7/Ansible-Install-Helm.svg?branch=main)](https://app.travis-ci.com/hatamiarash7/Ansible-Install-Helm)
+[![Build Status](https://app.travis-ci.com/hatamiarash7/Ansible-Install-Helm.svg?branch=main)](https://app.travis-ci.com/hatamiarash7/Ansible-Install-Helm) [![Molecule](https://github.com/hatamiarash7/Ansible-Install-Helm/actions/workflows/molecule.yml/badge.svg)](https://github.com/hatamiarash7/Ansible-Install-Helm/actions/workflows/molecule.yml)
 
 You can use this role to install [Helm](https://helm.sh/).
 
